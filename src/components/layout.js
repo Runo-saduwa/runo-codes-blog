@@ -13,7 +13,7 @@ class Layout extends React.Component {
       header = (
         <h1
           style={{
-            ...scale(1.5),
+            ...scale(1.0),
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
@@ -63,9 +63,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}
           {` `}
-          <a href="#">Love</a>
+          {/* <a href="#" color={{color:`#A569BD !important`}}>Love</a> */}
         </footer>
       </div>
     )

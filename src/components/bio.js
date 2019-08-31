@@ -54,11 +54,11 @@ const Bio = () => {
         }}
       />
       <p>
-        Personal blog by <strong> <a href={`https://twitter.com/${social.twitter}`}>
+        A blog by <strong><a style={{color: `#A569BD`}} href={`https://twitter.com/${social.twitter}`}>
         {author}
         </a></strong> 
         <br/>
-        I write about interesting topics in software development, Enjoy!
+        I write about rudimentry topics in software development, Enjoy!
       <br/>
        
 

@@ -3,9 +3,9 @@ module.exports = {
     title: `Runo codes`,
     author: `Runo Saduwa`,
     description: `A blog by Runo Saduwa`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `www.runo.codes`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `SaduwaRuno`,
     },
   },
   plugins: [
@@ -57,13 +57,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `my image`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#ffffff`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        //tab icon
+        // icon:`content/assets/lol`,
       },
     },
     `gatsby-plugin-offline`,
