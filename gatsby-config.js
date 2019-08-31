@@ -3,7 +3,7 @@ module.exports = {
     title: `Runo codes`,
     author: `Runo Saduwa`,
     description: `A blog by Runo Saduwa`,
-    siteUrl: `www.runo.codes`,
+    siteUrl: `https://www.runo.codes`,
     social: {
       twitter: `SaduwaRuno`,
     },
