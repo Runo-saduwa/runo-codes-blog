@@ -54,18 +54,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `my image`,
-        short_name: `GatsbyJS`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#ffffff`,
-        display: `minimal-ui`,
-        icon:null
-      },
-    },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     {
