@@ -63,8 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `minimal-ui`,
-        //tab icon
-        // icon:`content/assets/lol`,
+        icon:null
       },
     },
     `gatsby-plugin-offline`,
