@@ -3,9 +3,9 @@ module.exports = {
     title: `Runo codes`,
     author: `Runo Saduwa`,
     description: `A blog by Runo Saduwa`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `www.runo.codes`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `SaduwaRuno`,
     },
   },
   plugins: [
