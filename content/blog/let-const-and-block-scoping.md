@@ -1,6 +1,6 @@
 ---
 title: let, const & Block scoping
-date: "2019-09-31"
+date: "2019-10-01"
 description: Learn about the quirks and perks of major keywords used in declaring variables in JavaScript.
 ---
 

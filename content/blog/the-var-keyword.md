@@ -1,6 +1,6 @@
 ---
 title: The var keyword
-published: true
+date: "2019-10-03"
 description: Learn about the legacy way of declaring variables and also the pros and cons of using it.
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: ES6 Rest and Spread Operators
-published: true
-date: "2019-09-31"
+date: "2019-10-01"
 description: Introduction to rest and spread operators in modern JavaScript.
 ---
 
