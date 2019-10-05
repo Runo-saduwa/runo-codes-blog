@@ -1,7 +1,7 @@
 ---
 title: Default Function Parameters (ES6)
 date: "2019-08-31"
-description: Learn about the one of the ES6 feature that helps us to write better code.
+description: Learn about one of the most useful ES6 feature that helps us to write better code.
 ---
 
 

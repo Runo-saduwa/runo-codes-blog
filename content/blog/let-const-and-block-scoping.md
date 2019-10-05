@@ -1,6 +1,6 @@
 ---
 title: let, const & Block scoping
-published: true
+date: "2019-09-31"
 description: Learn about the quirks and perks of major keywords used in declaring variables in JavaScript.
 ---
 
